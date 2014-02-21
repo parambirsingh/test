@@ -1,6 +1,6 @@
 <html>
 <head>
-<title>My Git project</title>
+<title>My GitHub project</title>
 </head>
 <body>
 Hi, i am Parambir Singh. This is my first GitHub project.
